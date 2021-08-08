@@ -12,6 +12,10 @@ If you are like me using qgis, in order to import the raster file, say speed45ra
 Layer --> Add Layer --> Add Raster Layer --> 
 under source/raster dataset(s), enter path/file name for the raster file say Speed45Raster.asc --> Add
 
+3. after the layer is added, right click the layer --> Property --> Symbology --> Band Rendering.  Under band rendering, I choose singleband pseudocolor for rendering type and choose five colours for each  range of wind speed.  below is the outcome of the wind speed raster, juxtaimposed with wind farm locations in Scotland:
+
+![image](https://user-images.githubusercontent.com/20920121/128647029-bb1244da-3420-4d9e-aef8-70be26336f6e.png)
+ 
 -- END --
 
 
